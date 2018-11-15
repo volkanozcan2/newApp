@@ -1,0 +1,24 @@
+  @import url('https://fonts.googleapis.com/css?family=Roboto+Mono');
+  @import url('https://fonts.googleapis.com/css?family=Quicksand:700');
+
+  body {
+      font-family: 'Quicksand', sans-serif;
+      background: #fff;
+  }
+
+  a {
+      color: #00B7FF;
+  }
+
+  html,
+  body {
+      height: 100%;
+  }
+
+  body>.container {
+      padding: 100px 15px 0;
+  }
+
+  p {
+      font-weight: lighter;
+  }
