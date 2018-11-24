@@ -20,4 +20,4 @@ T(0.2*cons.c)
 
 1.0206207261596576
 ```
-This is Newtonian gravitation formula $F=\frac{Gm_{1}m_{2}}{r^2}$ 
+$e^{\pi i}+1=0$
